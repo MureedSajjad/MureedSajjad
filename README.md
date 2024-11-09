@@ -10,6 +10,6 @@
 ### 🛠️ Technical Skills
 Programming Languages: Python, R, SQL & Markdown\
 Tools & Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, RStudio, Jupyter\
-Specialties: Data Analysis, Machine Learning, Medical Imaging, Bioinformatics, Clinical Data\
+Specialties: Data Analysis, Machine Learning,Image processing & Signal Processing(Medical Imaging), Bioinformatics, Clinical Data\
 Databases: MySQL, PostgreSQL, MongoDB\
 Visualization Tools : Tableau , PowerBI, Excel
