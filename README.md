@@ -1,4 +1,4 @@
-#### Hey there, I'm Mureed Sajjad\ 👋About Me : I'm an aspiring Medical Data Scientist with a strong passion for leveraging data to improve healthcare outcomes. My expertise lies in data analysis, machine learning,Image processing & signal processing (medical imaging), and I'm eager to collaborate on projects that make a meaningful impact on healthcare.
+#### Hey there, I'm Mureed Sajjad \ 👋About Me : I'm an aspiring Medical Data Scientist with a strong passion for leveraging data to improve healthcare outcomes. My expertise lies in data analysis, machine learning,Image processing & signal processing (medical imaging), and I'm eager to collaborate on projects that make a meaningful impact on healthcare.
 
 🔬 Current Focus: Medical Data Science, Bioinformatics, Predictive Analytics\
 🎓 Education: Bachelor of Data Science, University of Sindh\
