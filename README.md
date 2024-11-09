@@ -5,7 +5,7 @@
 📫 Reach Me At: cksajjaad@gmail.com\
 🌱 Learning: Advanced Machine Learning, Deep Learning for Medical Imaging\
 👯 Looking to Collaborate On: Healthcare data science projects\
-🛠️### Technical Skills\
+### 🛠️ Technical Skills\
 Programming Languages: Python, R, SQL
 Tools & Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, RStudio, Jupyter
 Specialties: Data Analysis, Machine Learning, Medical Imaging, Bioinformatics, Clinical Data
