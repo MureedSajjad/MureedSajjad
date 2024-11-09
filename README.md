@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there, I'm Mureed Sajjad 👋About Me : I'm an aspiring Medical Data Scientist with a strong passion for leveraging data to improve healthcare outcomes. My expertise lies in data analysis, machine learning,Image processing & signal processing (medical imaging), and I'm eager to collaborate on projects that make a meaningful impact on healthcare.
 
-<!--
-**MureedSajjad/MureedSajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Current Focus:** Medical Data Science, Bioinformatics, Predictive Analytics
+🎓 Education: Bachelor of Data Science, University of Sindh
+📫 Reach Me At: cksajjaad@gmail.com
+🌱 Learning: Advanced Machine Learning, Deep Learning for Medical Imaging
+👯 Looking to Collaborate On: Healthcare data science projects
+🛠️ Technical Skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Python, R, SQL
+Tools & Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, RStudio, Jupyter
+Specialties: Data Analysis, Machine Learning, Medical Imaging, Bioinformatics, Clinical Data
+Databases: MySQL, PostgreSQL, MongoDB
+Visualization Tools : Tableau , PowerBI, Excel
