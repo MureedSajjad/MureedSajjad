@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Biomedical+Data+Scientist;Machine+Learning+Researcher;Healthcare+AI+Enthusiast;Bridging+Medicine+%26+Technology)](https://git.io/typing-svg)
 
-🎯 **Biomedical Data Science Scholar**  
+  **Biomedical Data Science Scholar**  
 💡 Transforming Biomedicine & Healthcare Through AI & Big Data 
 📍 Jamshoro, Sindh, Pakistan 
 
