@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Mureed Sajjad
+# Mureed Sajjad
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Biomedical+Data+Scientist;Machine+Learning+Researcher;Healthcare+AI+Enthusiast;Bridging+Medicine+%26+Technology)](https://git.io/typing-svg)
 
-🎯 **Biomedical Data Scientist in Training**  
-💡 Transforming Healthcare Through Computational Innovation  
-📍 Jamshoro, Sindh, Pakistan | 🌍 Open to Global Opportunities
+🎯 **Biomedical Data Science Scholar**  
+💡 Transforming Biomedicine & Healthcare Through AI & Big Data 
+📍 Jamshoro, Sindh, Pakistan 
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mureedsajjad)
@@ -17,9 +17,10 @@
 
 ## 🧬 About Me
 
-I'm a **5th-semester Data Science student** at the University of Sindh with a unique interdisciplinary background combining **life sciences foundation** (Pre-medical studies) with **computational expertise**. My mission is to develop AI-powered solutions that make healthcare more accessible, accurate, and equitable.
+I'm a **3rd Year Data Science student** at the University of Sindh with a unique interdisciplinary background combining **life sciences foundation** (Pre-medical studies) with **computational expertise**. My mission is to develop AI-powered solutions that make healthcare more accessible, accurate, and equitable.
 
 ### 🎯 My Focus Areas:
+- **🧬 Biomedicine**
 - **🔬 Precision Medicine**: ML models for personalized treatment strategies
 - **🏥 Clinical Decision Support**: Interpretable AI for medical professionals  
 - **🧬 Biomedical Signal Processing**: Pattern recognition in physiological data
