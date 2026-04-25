@@ -1,152 +1,78 @@
+# Hi, I'm Mureed Sajjad 👋
+
 <div align="center">
 
-# Mureed Sajjad
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Biomedical+Data+Scientist;Machine+Learning+Researcher;Academic+Typesetting+Expert;(LaTeX+%2F+Quarto);Bridging+Medicine+%26+Tech)](https://git.io/typing-svg)
 
-**Final Year Data Science Student | Biomedical AI Focus**  
-University of Sindh, Jamshoro  
-Khairpur, Sindh, Pakistan
+**Data Science Scholar (3rd Year) @ University of Sindh** 📍 Jamshoro, Sindh, Pakistan | 📧 [cksajjaad@gmail.com](mailto:cksajjaad@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mureed-sajjad)
-[![Email](https://img.shields.io/badge/Email-mureedsajjad786@gmail.com-D14836?style=flat&logo=gmail)](mailto:mureedsajjad786@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mureedsajjad)
 
 </div>
 
 ---
 
-## About Me
+## 🧬 About Me
 
-I am a final-year Data Science student at the University of Sindh 
-with a pre-medical background in biology and chemistry. This 
-combination shapes how I approach problems: I think about health 
-challenges from both a biological and a computational perspective 
-at the same time.
+I am a Data Science undergraduate with a unique foundation in Pre-Medical studies. My core focus is bridging the gap between healthcare and computational technology. I specialize in building predictive Machine Learning models for clinical data and providing world-class academic typesetting for complex research publications. 
 
-My focus is building machine learning solutions for healthcare 
-problems that are relevant to Pakistan and Sindh specifically, 
-communities where access to diagnostic tools and health data 
-infrastructure remains limited.
+I don't just analyze the data; I format the final research so it is ready for international medical journals.
 
-I also write and produce science communication content in Sindhi, 
-Urdu, and English, because I believe that making technical 
-knowledge accessible in local languages is as important as 
-the technical work itself. A post I wrote in Sindhi about my 
-breast cancer detection project reached over 560,000 people 
-organically.
-
-Beyond machine learning, I have developed strong skills in 
-professional academic document production using LaTeX and Quarto, 
-and I use these for my own research work and for helping 
-researchers present their work properly.
+**My Dual Expertise:**
+* **Biomedical AI:** Disease prediction models, clinical data analysis, and health informatics.
+* **Technical Authorship:** Expert-level document formatting, LaTeX/Quarto typesetting, and interactive textbook writing (Currently authoring a biomedical-focused Statistics & Probability guide).
 
 ---
 
-## Projects
+## 🛠️ Technical Stack
 
-### Breast Cancer Detection Using Logistic Regression
-Binary classification of breast tumours as malignant or benign  
-using the Wisconsin Breast Cancer Dataset.
+**Programming & Analysis**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Algorithm:** Logistic Regression
-- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
-- **Dataset:** UCI Wisconsin Breast Cancer Diagnostic Dataset
-- **Status:** Complete
+**Machine Learning & Data Science**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-[View Repository](https://github.com/MureedSajjad/breast-cancer-detection-logistic-regression)
-
----
-
-### Heart Disease Prediction Using Random Forest
-Predicting heart disease presence from clinical patient data  
-using a Random Forest classifier with Logistic Regression baseline.
-
-- **Algorithm:** Random Forest, Logistic Regression (baseline)
-- **Tools:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-- **Dataset:** Heart Disease Dataset UCI via Kaggle
-- **Status:** Complete — methodology review in progress  
-  (see repository README for honest discussion of results)
-
-[View Repository](https://github.com/MureedSajjad/heart-disease-prediction)
+**Academic Typesetting & Visualization**
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## Skills
+## 🏆 Featured Projects
 
-**Machine Learning and Data Science**  
-Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn,  
-Statistical Analysis, Jupyter Notebook
+### 🩺 [Diabetes Treatment Prediction System](https://github.com/MureedSajjad/sajjad-biomedaii)
+* **Objective:** Predict treatment outcomes using clinical parameters.
+* **Tech Stack:** Python, Scikit-learn, Pandas.
+* **Results:** Engineered features from raw clinical data to achieve an honest **89% prediction accuracy**.
 
-**Document Production**  
-LaTeX, Overleaf, Quarto, Academic Typesetting,  
-Harvard and APA citation formatting
+### 🎗️ [Breast Cancer Detection](https://github.com/MureedSajjad/breast-cancer-detection-logistic-regression)
+* **Objective:** Classify tumors as malignant or benign using Logistic Regression.
+* **Tech Stack:** Python, Scikit-learn, Data Visualization (Matplotlib/Seaborn).
+* **Results:** Built an interpretable classification model focusing on minimizing false negatives in medical diagnostics.
 
-**Tools**  
-Git, GitHub, VS Code, RStudio
-
-**Currently Learning**  
-Deep Learning fundamentals, TensorFlow basics,  
-Medical image classification
-
-**Languages**  
-Sindhi (Native), Seraiki (Native),  
-Urdu (Fluent), English (Professional)
+### ❤️ [Heart Disease Prediction Model](https://github.com/MureedSajjad/heart-disease-prediction)
+* **Objective:** Identify key risk factors and predict heart disease presence.
+* **Tech Stack:** R / Python, Statistical Modeling.
 
 ---
 
-## Certifications
+## 📚 Certifications & Education
 
-- Advanced Statistics for Data Science Specialization  
-  **Johns Hopkins University** via Coursera, June 2025
-- Data Science Foundations  
-  **IBM** via Coursera, June 2025
-- Use AI as a Creative or Expert Partner  
-  **Google**, July 2025
-- How to Identify Research Gaps  
-  **Elsevier Researcher Academy**, May 2025
-- Write Smarter with Overleaf and LaTeX  
-  **Coursera**, June 2025
-- Programming for Everybody (Getting Started with Python)  
-  **University of Michigan** via Coursera, April 2025
-- Prompt Engineering for ChatGPT  
-  **Coursera**
-- Writing in English at University  
-  **Coursera**, June 2025
+* **B.S. Data Science (3rd Year)** - University of Sindh, Jamshoro
+* **Advanced Data Science Certifications** - IBM & Johns Hopkins University (Coursera)
+* **Pre-Medical Foundation** - Top Performer in Biology & Chemistry
 
 ---
 
-## What I Am Working On
-
-- Final Year Project: Multi-disease chest X-ray classification  
-  using deep learning, supervised by Dr. Atia Bano Memon,  
-  University of Sindh
-- Introductory book on Probability and Statistics  
-  written at secondary school level with all examples  
-  drawn from biomedical and health contexts
-
----
-
-## I Am Looking For
-
-- Research collaborations in biomedical data science  
-  or health informatics
-- Internship opportunities in healthcare AI or  
-  clinical informatics
-- Connections with researchers and faculty working at  
-  the intersection of data science and healthcare in Pakistan
-
----
-
-## Connect
-
-- **Email:** mureedsajjad786@gmail.com
-- **WhatsApp:** 03000332872
-- **LinkedIn:** [Mureed Sajjad](https://linkedin.com/in/mureed-sajjad)
-- **Location:** Khairpur, Sindh, Pakistan
-
----
+## 📊 GitHub Activity
 
 <div align="center">
 
-*Building things that I hope will one day matter  
-to the people around me.*
+![Mureed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MureedSajjad&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
