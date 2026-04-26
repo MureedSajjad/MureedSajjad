@@ -54,6 +54,20 @@ using the Wisconsin Breast Cancer Dataset.
 [View Repository](https://github.com/MureedSajjad/breast-cancer-detection-logistic-regression)
 
 ---
+### Network Analysis of Organizational Email Communication
+Complex network analysis of 25,571 email exchanges among 
+1,005 employees using the Stanford SNAP Email-Eu-Core dataset.
+Computed degree distribution, clustering coefficients, 
+betweenness and closeness centrality, and network topology.
+Written report evaluated as research quality. Grade: 10/10.
+
+- **Tools:** R, igraph, ggplot2, ggraph
+- **Dataset:** Stanford SNAP Email-Eu-Core
+- **Status:** Complete
+
+[View Repository](link-to-new-repo)
+
+---
 
 ### Heart Disease Prediction Using Random Forest
 Predicting heart disease presence from clinical patient data  
